@@ -1,3 +1,3 @@
-theme: jekyll-theme-THEME-NAME
+theme: jekyll-theme-minimal
 # coursera-test
 test rep
